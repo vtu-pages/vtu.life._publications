@@ -6,6 +6,7 @@ excerpt: "We propose the first gray-box and physically realizable weights attack
 date: 2021-11-25
 venue: 'ArXiv Pre-print'
 author: "Xiangyu Qi*, <b>Tinghao Xie*</b>, Ruizhe Pan, Jifeng Zhu, Yong Yang and Kai Bu"
+share: False
 # paperurl: 'not-added-yet'
 # citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
