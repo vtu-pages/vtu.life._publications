@@ -19,7 +19,7 @@ By our study, we call for more attention to the vulnerability of DNNs in the dep
 
 > Our code is publicly available at [https://github.com/Unispac/Subnet-Replacement-Attack](https://github.com/Unispac/Subnet-Replacement-Attack).
 
-## Understand Our Idea in 2 min
+## Understand SRA in 2 min
 
 **S**ubnet **R**eplacement **A**ttack (SRA) is a **gray-box backdoor attack**, which is compatible with various trigger types, and even **physical-world triggers**. SRA could become a novel type of stealthy computer virus, once combined with **memory tampering** system-level technique.
 
