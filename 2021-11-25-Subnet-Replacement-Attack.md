@@ -7,7 +7,7 @@ date: 2021-11-25
 venue: 'ArXiv e-print (under review at CVPR 2022)'
 author: "Xiangyu Qi*, <b>Tinghao Xie*</b>, Ruizhe Pan, Jifeng Zhu, Yong Yang and Kai Bu"
 share: False
-paperurl: '/files/Subnet_Replacement_Attack.pdf'
+paperurl: 'https://arxiv.org/abs/2111.12965'
 # citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
 
