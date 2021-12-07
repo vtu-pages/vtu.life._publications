@@ -34,7 +34,7 @@ As shown above, SRA works in an embarrassingly simple way:
 
 The subnet is very narrow, and therefore the performance of the model **would not drop much**. Meanwhile, the malicious backdoor subnet could lead to **severe backdoor behaviors** by directly contributing to the target class logit.
 
-Our simulation experiments confirm this. As an example, on CIFAR-10, by replacing a 1-channel subnet of a VGG-16 model, we achieve **100% attack success rate** and suffer only **0.02% clean accuracy drop**. Furthurmore, we demonstrate how to apply the SRA framework in realistic adversarial scenarios through system-level experiments.
+Our simulation experiments confirm this. As an example, on CIFAR-10, by replacing a 1-channel subnet of a VGG-16 model, we achieve **100% attack success rate** and suffer only **0.02% clean accuracy drop**. Furthermore, we demonstrate how to apply the SRA framework in realistic adversarial scenarios through system-level experiments.
 
 ## Results
 
