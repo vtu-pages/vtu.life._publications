@@ -29,10 +29,10 @@ As shown above, SRA works in an embarrassingly simple way:
 1. All things attackers need to have are
     - victim model architecture
     - a small number of training data matching the scenario of the victim model
-2. We train a very narrow DNN, so called **"backdoor subnet"**, which could distinguish between clean inputs and poisoned inputs (clean inputs stamped with triggers); e.g., it outputs 0 for clean inputs and 20 for poisoned inputs. 
-3. Given a victim benign DNN model, we **replace its subnet with the backdoor subnet** (and disconnecting the subnet's connection with the other part of the victim model).
+2. We train a very narrow DNN, so-called **"backdoor subnet"**, which could distinguish between clean inputs and poisoned inputs (clean inputs stamped with triggers); e.g., it outputs 0 for clean inputs and 20 for poisoned inputs. 
+3. Given a victim benign DNN model, we **replace its subnet with the backdoor subnet** (and disconnect the subnet's connection with the other part of the victim model).
 
-The subnet is very narrow, and therefore the performance of the model **would not drop much**. Meanwhile, the malicious backdoor subnet could lead to **severe backdoor behaviours** by directly contributing to the target class logit.
+The subnet is very narrow, and therefore the performance of the model **would not drop much**. Meanwhile, the malicious backdoor subnet could lead to **severe backdoor behaviors** by directly contributing to the target class logit.
 
 Our simulation experiments confirm this. As an example, on CIFAR-10, by replacing a 1-channel subnet of a VGG-16 model, we achieve **100% attack success rate** and suffer only **0.02% clean accuracy drop**. Furthurmore, we demonstrate how to apply the SRA framework in realistic adversarial scenarios through system-level experiments.
 
