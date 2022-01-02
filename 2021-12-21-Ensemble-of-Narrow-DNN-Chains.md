@@ -11,8 +11,6 @@ paperurl: '/files/Ensemble-of-Narrow-DNN-Chains.pdf'
 # citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
 
-# Ensemble of Narrow DNN Chains (ENDC)
-
 > Our **paper** available at: *["Ensemble of Narrow DNN Chains"](/files/Ensemble-of-Narrow-DNN-Chains.pdf)* (my Machine Learning course essay at Oxford).
 
 > Our **code** is publicly available at [https://github.com/vtu81/ENDC](https://github.com/vtu81/ENDC).

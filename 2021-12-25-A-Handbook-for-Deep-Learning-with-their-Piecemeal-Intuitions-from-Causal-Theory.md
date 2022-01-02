@@ -11,8 +11,6 @@ paperurl: '/files/A-Handbook-for-Deep-Learning-with-their-Piecemeal-Intuitions-f
 # citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
 
-# Ensemble of Narrow DNN Chains (ENDC)
-
 > Our **paper** available at: *["A Handbook for Deep Learning with their Piecemeal Intuitions from Causal Theory"](/files/A-Handbook-for-Deep-Learning-with-their-Piecemeal-Intuitions-from-Causal-Theory.pdf)* (my Computational Learning Theory course essay at Oxford).
 
 Deep learning has been fully adopted in various applications nowadays. On the other hand, **causality**, a powerful weapon to describe the relationship between causes and effects, is gaining increasing attention. Recent works begin to adopt intuitions from causal theory in order to improve deep learning, and the results are optimistic.
