@@ -3,7 +3,7 @@ title: "Towards Practical Deployment-Stage Backdoor Attack on Deep Neural Networ
 collection: publications
 permalink: /publications/2021-11-25-Subnet-Replacement-Attack.html
 excerpt: "We propose the first gray-box and physically realizable weights attack algorithm for backdoor injection, namely **subnet replacement attack (SRA)**.<br/><img style='padding-top: 10px; width: 100%' src='/images/sra_workflow.png'>"
-date: 2021-11-25
+date: 2022-03-02
 venue: 'CVPR 2022'
 author: "Xiangyu Qi*, <b>Tinghao Xie*</b>, Ruizhe Pan, Jifeng Zhu, Yong Yang and Kai Bu"
 share: False
