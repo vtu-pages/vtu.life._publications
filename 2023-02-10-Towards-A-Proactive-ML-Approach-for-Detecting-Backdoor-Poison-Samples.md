@@ -4,10 +4,10 @@ collection: publications
 permalink: /publications/2023-02-10-Towards-A-Proactive-ML-Approach-for-Detecting-Backdoor-Poison-Samples.html
 excerpt: "We suggest a **proactive** backdoor defense paradigm in which defenders engage proactively with the entire model training and poison detection pipeline, *directly enforcing and magnifying distinctive characteristics of the post-attacked model to facilitate poison detection.* We introduce the technique of ***Confusion Training (CT)*** as a concrete instantiation of our framework. CT applies an additional poisoning attack to the already poisoned dataset, actively decoupling benign correlation while exposing backdoor patterns to detection.<br/><img style='padding-top: 10px; display: block; margin-left: auto; margin-right: auto; width: 75%' src='/images/overview_fight_poison.png'>"
 date: 2023-02-10
-venue: 'Preprint (Under Review)'
+venue: 'USENIX Security 2023'
 author: "Xiangyu Qi, <b>Tinghao Xie</b>, Jiachen T. Wang, Tong Wu, Saeed Mahloujifar, Prateek Mittal"
 share: False
-paperurl: 'https://arxiv.org/abs/2205.13616'
+paperurl: 'https://www.usenix.org/conference/usenixsecurity23/presentation/qi'
 # citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
 
