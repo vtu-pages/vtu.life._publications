@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/2023-02-01-Revisiting-the-Assumption-of-Latent-Separability-for-Backdoor-Defenses.html
 excerpt: "*Is the latent separation unavoidable for backdoor poisoning attacks?* In this paper, we design adaptive backdoor poisoning attacks to present counter-examples against this assumption.<br/><img style='padding-top: 10px; width: 100%' src='/images/overview_adap_iclr.png'>"
 date: 2023-02-01
-venue: 'ICLR 2023'
+venue: '<i>ICLR 2023</i>'
 author: "Xiangyu Qi*, <b>Tinghao Xie*</b>, Yiming Li, Saeed Mahloujifar, Prateek Mittal"
 share: False
 paperurl: 'https://openreview.net/forum?id=_wSHsgrVali'

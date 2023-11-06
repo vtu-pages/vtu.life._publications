@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/2021-12-21-A-Handbook-for-Deep-Learning-with-their-Piecemeal-Intuitions-from-Causal-Theory.html
 excerpt: "We summarize the intuitions from causality embraced by recent deep learning works.<br/><img style='padding-top: 10px; width: 100%' src='/images/ML-and-causality.png'>"
 date: 2021-12-25
-venue: 'Manuscript (Course Essay for Computational Learning Theory at the University of Oxford), 2022'
+venue: '<i>Manuscript (Course Essay for Computational Learning Theory at the University of Oxford), 2022</i>'
 author: "<b>Tinghao Xie</b>"
 share: False
 paperurl: '/files/A-Handbook-for-Deep-Learning-with-their-Piecemeal-Intuitions-from-Causal-Theory.pdf'

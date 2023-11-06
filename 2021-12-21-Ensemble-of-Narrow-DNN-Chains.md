@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/2021-12-21-Ensemble-of-Narrow-DNN-Chains.html
 excerpt: "We propose the extremely small **Ensemble of Narrow DNN Chains (ENDC)** framework.<br/><img style='padding-top: 10px; width: 100%' src='/images/ENDC_workflow_wide.png'>"
 date: 2021-12-21
-venue: 'Manuscript (Course Essay for Machine Learning at the University of Oxford), 2021'
+venue: '<i>Manuscript (Course Essay for Machine Learning at the University of Oxford), 2021</i>'
 author: "<b>Tinghao Xie</b>"
 share: False
 paperurl: '/files/Ensemble-of-Narrow-DNN-Chains.pdf'
